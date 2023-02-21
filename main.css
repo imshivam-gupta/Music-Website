@@ -36,17 +36,7 @@ html {
   cursor: none;
 }
 
-#cursor {
-  background-color: transparent;
-  border: 6px solid rgb(249, 238, 238);
-  height: 12px;
-  width: 12px;
-  border-radius: 50%;
-  -moz-border-radius: 50%;
-  -webkit-border-radius: 50%;
-  position: absolute;
-  z-index: 1;
-}
+
 
 main {
   width: 100%;
